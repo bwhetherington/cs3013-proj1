@@ -1,7 +1,8 @@
-=== Building the project
+# CS3013 Project 1
+## Building the project
 To build the project, simply run `make doit`.
 
-=== Examples
+## Examples
 ```
 ==> ls -l
 total 129
@@ -56,7 +57,7 @@ Maximum resident set size used: 1012
 Finished executing child process echo (11019) with status 0.
 ```
 
-=== Notes
+## Notes
 Unfortunately, I did not have time to implement the 3rd part of the project,
 background tasks. Unlike a typical Unix shell, mine does not implement many
 features such as real environment variables, 
