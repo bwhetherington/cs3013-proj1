@@ -2,7 +2,7 @@
 CC := gcc
 
 # Compiler flags
-CFLAGS := -Wall
+CFLAGS := -Wall --std=c99
 
 # Executable name
 EXEC := doit
